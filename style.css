@@ -1,0 +1,112 @@
+  
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+
+body {
+    border: solid lightslategrey 2px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.header {
+    text-align: center;
+    background-color: grey;
+    margin: 4px;
+    padding: 20px;
+    color: white;
+}
+
+.banner {
+    text-align: center;
+    background-color: skyblue;
+    color: white;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 250px;
+}
+
+.section1 {
+    margin-top: 140px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.circle {
+    background-color: gold;
+    padding: 75px;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 50%;
+    display: inline-flex;
+}
+
+.section2 {
+    margin-top: 20px;
+    margin-top: 140px;
+    margin-bottom: 10px;
+}
+
+.sec2content {
+    display: inline-flex;
+}
+
+.main {
+    background-color: grey;
+    color: white;
+    width: 725px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    margin: 4px;
+}
+
+.article {
+    background-color: red ;
+    margin-right: 4px;
+    margin-left: 4px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+    padding: 65px;
+    width: 523px;
+    height: 40px;
+    text-align: center;
+    color: white;
+}
+
+#article3 {
+    margin-bottom: 4px;
+}
+
+.section3 {
+    text-align: center;
+    margin-top: 140px;
+    margin-bottom: 10px;
+}
+
+.square {
+    background-color: palevioletred;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 100px;
+    display: inline;
+}
+
+.section4 {
+    text-align: center;
+    margin-top: 140px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 5px;
+    background-color: rgb(48, 39, 48);
+    color: white;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 7.5px;
+}
